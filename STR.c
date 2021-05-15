@@ -1,6 +1,5 @@
 /**
 Author: Bruno Vasconcellos
-USF ID: U93067202
 Description: This program will make use of I/O files take an user external file as input. Then it will calculate and return the number of
 DNA Short Tandem Repeats(a sequence prompted by the user) in a one line string repetitions from the user's selected file. In case the
 file presents any error, the program will display an error message and shut it down returning 1.
